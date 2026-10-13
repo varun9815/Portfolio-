@@ -2,7 +2,7 @@
 
 Welcome to my central portfolio repository! This repository hosts the source code for my live personal portfolio website, built to showcase my technical engineering projects, software skills, and academic background in Computer Science and Machine Learning.
 
-🌐 **Live Website:** [varun9815.github.io/portfolio](https://Varun9815.github.io/portfolio/)
+🌐 **Live Website:** [varun9815.github.io/portfolio](https://Varun9815.github.io/Portfolio-/)
 
 ---
 
